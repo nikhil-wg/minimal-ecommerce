@@ -1,7 +1,6 @@
 # 🛒 Minimal E-Commerce Application
 
-A modern e-commerce platform built with React, Node.js, and Tailwind CSS for Verto's Associate Software Engineer challenge.
-
+A modern e-commerce platform built with React, Node.js, and Tailwind CSS 
 ## ✨ Features
 
 - Product catalog with 24 items
@@ -61,12 +60,12 @@ minimal-ecommerce/
 
 ## 🔗 Links
 
-- **GitHub:** [Your Repository Link]
-- **Video Demo:** [Your Video Link]
+
+- **Video Demo: https://www.loom.com/share/c4aff6a5e8ba4d89a0df3221a6307bcf?sid=e6aaa685-ff73-496e-8c63-9aecdf9943b7
 
 ## 👤 Author
 
-**[Your Name]**  
+**Nikhil Wagh**  
 Verto Associate Software Engineer Challenge  
 October 2025
 
