@@ -61,14 +61,5 @@ minimal-ecommerce/
 ## 🔗 Links
 
 
-- **Video Demo: https://www.loom.com/share/c4aff6a5e8ba4d89a0df3221a6307bcf?sid=e6aaa685-ff73-496e-8c63-9aecdf9943b7
+- **Video Demo:** https://www.loom.com/share/c4aff6a5e8ba4d89a0df3221a6307bcf?sid=e6aaa685-ff73-496e-8c63-9aecdf9943b7
 
-## 👤 Author
-
-**Nikhil Wagh**  
-Verto Associate Software Engineer Challenge  
-October 2025
-
----
-
-Built with ❤️ for Verto's mission to democratize global finance.
