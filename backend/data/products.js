@@ -8,14 +8,7 @@ export const products = [
     description: "Apple M2 Pro chip, 16GB RAM, 512GB SSD",
     category: "Electronics"
   },
-  { 
-    id: 2, 
-    name: "iPhone 15 Pro", 
-    price: 134900, 
-    imageUrl: "https://images.unsplash.com/photo-1592286927505-382fd7a87dd4?w=400&h=400&fit=crop",
-    description: "128GB, Titanium Blue",
-    category: "Electronics"
-  },
+  
   { 
     id: 3, 
     name: "Sony WH-1000XM5", 
@@ -196,7 +189,7 @@ export const products = [
     id: 24, 
     name: "Kindle Paperwhite", 
     price: 13999, 
-    imageUrl: "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?w=400&h=400&fit=crop",
+    imageUrl: "https://images.unsplash.com/photo-159246431122-2349e0fbc666?w=400&h=400&fit=crop",
     description: "E-Reader with 6.8\" Display, 16GB",
     category: "Electronics"
   },
