@@ -7,7 +7,7 @@ function Home({ addToCart }) {
   const [addingToCart, setAddingToCart] = useState({});
 
   useEffect(() => {
-    axios.get("http://localhost:5000/products")
+    axios.get("https://minimal-ecommerce-4rbw.onrender.com/products")
       .then(res => {
         setProducts(res.data);
         setLoading(false);

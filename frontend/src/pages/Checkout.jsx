@@ -12,7 +12,7 @@ function Checkout({ cart, clearCart }) {
 
   const handleCheckout = () => {
     setIsLoading(true);
-    axios.post("http://localhost:5000/checkout", { cart })
+    axios.post("https://minimal-ecommerce-4rbw.onrender.com/checkout", { cart })
       .then(res => {
         setOrderDetails(res.data);
         setShowSuccessModal(true);
