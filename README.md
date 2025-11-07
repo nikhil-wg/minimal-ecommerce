@@ -1,4 +1,4 @@
-# 🛒 Minimal E-Commerce Application
+# 🛒 Mock E‑Com Cart
 
 A modern e-commerce platform built with React, Node.js, and Tailwind CSS 
 ## ✨ Features
@@ -59,7 +59,6 @@ minimal-ecommerce/
 ```
 
 ## 🔗 Links
-
 
 
 
