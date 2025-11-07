@@ -61,5 +61,5 @@ minimal-ecommerce/
 ## 🔗 Links
 
 
-- **Video Demo:** https://www.loom.com/share/c4aff6a5e8ba4d89a0df3221a6307bcf?sid=e6aaa685-ff73-496e-8c63-9aecdf9943b7
+
 
